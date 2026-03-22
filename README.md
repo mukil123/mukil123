@@ -1,80 +1,46 @@
 # 👋 Hi, I'm Mukil M
 
-🎓 BTech CSE (Big Data Analytics) Student @ LPU  
-📊 Aspiring Data Analyst | Turning data into insights  
-🚀 Building real-world projects & solving practical problems  
+🎓 BTech CSE (Big Data Analytics) student at Lovely Professional University  
+📊 Aspiring Data Analyst focused on transforming data into meaningful insights  
+🚀 Building practical projects to solve real-world problems
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🔍 Passionate about Data Analytics & Business Intelligence  
-- 📈 Skilled in extracting insights from data and presenting them visually  
-- 💡 Love combining creativity + data to build impactful solutions  
-- 🎯 Currently focused on becoming a job-ready Data Analyst  
+I am passionate about working with data to uncover patterns, support decision-making, and create impactful solutions.  
+Currently strengthening my skills through hands-on projects in analytics, visualization, and problem-solving.
 
 ---
 
-## 💻 Technical Skills
+## Skills
 
-### 📌 Languages
-- Python 🐍  
-- SQL  
-
-### 📊 Tools & Technologies
-- Power BI  
-- Tableau  
-- Excel  
-- IBM SPSS Modeler  
-
-### 📚 Concepts
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Basic Machine Learning  
-- Statistics & Probability  
+**Languages:** Python, SQL  
+**Tools:** Power BI, Tableau, Excel, IBM SPSS Modeler, IBM Cognos Analytics 
+**Core Areas:** Data Cleaning, Data Visualization, Basic Machine Learning
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📊 IPL 2025 Interactive Dashboard
-- Built a Tableau dashboard analyzing match data, player stats, and venue insights  
-- Created interactive visualizations for better decision-making  
+**IPL 2025 Interactive Dashboard (Tableau)**  
+Developed an interactive dashboard analyzing match data, player performance, and venue insights to identify trends.
 
-### 🅿️ Smart Parking Management System
-- Developed a system to track parking availability in real-time  
-- Helps reduce congestion and improve user efficiency  
+**Smart Parking Management System**  
+Built a system to track parking availability in real time, aimed at reducing congestion and improving efficiency.
 
-### 🎮 Rock-Paper-Scissors CLI Game
-- Built a Python-based command-line game with computer logic  
-- Strengthened core programming fundamentals  
+**Rock-Paper-Scissors CLI (Python)**  
+Created a command-line game to demonstrate programming logic, control flow, and user interaction.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements
 
-- 🏅 Participated in **Statistella: Data Analytics Competition**  
-  (B.A.S.H 8.0 organized by IIT BHU) :contentReference[oaicite:0]{index=0}
-    
-- 🚀 Actively participating in tech challenges and competitions  
+🏅 Participated in *Statistella: Data Analytics Competition* (B.A.S.H 8.0) organized by IIT BHU :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## 🤝 Soft Skills
+## Contact
 
-- Communication & Presentation  
-- Problem Solving  
-- Team Collaboration  
-- Creative Thinking  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mukil-m-92010m/  
-- 📧 Email: mukilmunnilath@gmail.com  
-
----
-
-⭐ *“Turning data into decisions and ideas into impact.”*
+🔗 LinkedIn: https://www.linkedin.com/in/mukil-m-92010m/  
+📧 Email: mukilmunnilath@gmail.com
