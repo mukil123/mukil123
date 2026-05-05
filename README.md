@@ -36,7 +36,7 @@ Created a command-line game to demonstrate programming logic, control flow, and 
 
 ## Achievements
 
-🏅 Participated in *Statistella: Data Analytics Competition* (B.A.S.H 8.0) organized by IIT BHU :contentReference[oaicite:0]{index=0}  
+🏅 Participated in *Statistella: Data Analytics Competition* (B.A.S.H 8.0) organized by IIT BHU
 
 ---
 
